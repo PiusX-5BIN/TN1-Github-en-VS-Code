@@ -19,10 +19,10 @@ Github is een website waar je Git kunt gebruiken voor jouw projecten in een gema
     1. Je **commit** één of meer bestanden: hiermee geef je aan dat deze bestanden "klaar" zijn om verstuurd te worden.
     2. Je **pushed** één of meer commits: hiermee verstuur je alle bestanden die je hebt gecommit naar je repository.
 
-#### OPDRACHT: Github
-
- - [ ] Maak een Github account aan met het e-mail adres van de school (voornaam.achternaam@leerling.piustien.net).\
-       *Hint: Als je deze opdracht leest, dan ben je normaal gezien reeds aangemeld op je Github account!*
+> #### OPDRACHT: Github
+>
+> - [ ] Maak een Github account aan met het e-mail adres van de school (voornaam.achternaam@leerling.piustien.net).\
+>       ***Hint**: Als je deze opdracht leest, dan ben je normaal gezien reeds aangemeld op je Github account!*
 
 ### Visual Studio Code
 
@@ -40,9 +40,17 @@ Enkele voorbeelden van grappige/leuke extensies:
  - [Password Generator](https://marketplace.visualstudio.com/items?itemName=ftonato.password-generator)
  - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
-#### OPDRACHT: Visual Studio Code
-
- - [ ] installeer VS Code door op de knop "Open in Visual Studio Code" te klikken
+> #### OPDRACHT: Visual Studio Code
+>
+> - [ ] installeer VS Code door bovenaan deze pagina op de knop ![open in vscode](open-in-vscode.svg) te klikken.
+> - [ ] volg de installatieprocedure.
+> - [ ] wanneer je je project opent in VS Code krijg je nu een foutboodschap te zien:\
+>       ![download git](download-git.png)\
+>       Klik op de knop "Download Git"
+> - [ ] installeer Git\
+>       **BELANGRIJK**: kies tijdens de installatie voor VS Code als "default editor"\
+>       **BELANGRIJK**: Kies voor "Use Windows' default console window"\
+>       al de rest mag je de standaard waardes kiezen
 
 ---
 

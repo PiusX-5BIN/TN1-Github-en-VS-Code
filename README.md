@@ -50,7 +50,7 @@ Enkele voorbeelden van grappige/leuke extensies:
 > - [ ] installeer Git\
 >       **BELANGRIJK**: kies tijdens de installatie voor VS Code als "default editor"\
 >       **BELANGRIJK**: Kies voor "Use Windows' default console window"\
->       al de rest mag je de standaard waardes kiezen
+>       al de rest mag je de standaard waardes kiezen 
 
 ---
 

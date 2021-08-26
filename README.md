@@ -40,17 +40,28 @@ Enkele voorbeelden van grappige/leuke extensies:
  - [Password Generator](https://marketplace.visualstudio.com/items?itemName=ftonato.password-generator)
  - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
-> #### OPDRACHT: Visual Studio Code
+> #### OPDRACHT: Visual Studio Code (1)
 >
 > - [ ] installeer VS Code door bovenaan deze pagina op de knop ![open in vscode](open-in-vscode.svg) te klikken.
 > - [ ] volg de installatieprocedure.
+
+> #### OPDRACHT: Visual Studio Code (2)
 > - [ ] wanneer je je project opent in VS Code krijg je nu een foutboodschap te zien:\
 >       ![download git](download-git.png)\
->       Klik op de knop "Download Git"
+>       Klik op de knop "Download Git".
 > - [ ] installeer Git\
 >       **BELANGRIJK**: kies tijdens de installatie voor VS Code als "default editor"\
 >       **BELANGRIJK**: Kies voor "Use Windows' default console window"\
->       al de rest mag je de standaard waardes kiezen 
+>       al de rest mag je de standaard waardes kiezen.
+
+> #### OPDRACHT: Visual Studio Code (3)
+>
+> - [ ] open VS Code en klik links op de knop ![extensions](extensions.png).
+> - [ ] de extensies "Github Classroom" en "Github Pull Request and Issues" zijn reeds geinstalleerd.
+> - [ ] zoek en installeer de volgende extensies:
+>   - Live Server
+>   - Live Share
+>   - Markdown All in One
 
 ---
 

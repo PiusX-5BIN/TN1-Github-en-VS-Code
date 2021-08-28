@@ -78,4 +78,7 @@ Enkele voorbeelden van grappige/leuke extensies:
 
 ## 📚 Bronnen
 
- - 
+ - [github.com](https://github.com/)
+ - [VS Code](https://code.visualstudio.com/download)
+ - [VS Code Extensions](https://marketplace.visualstudio.com/VSCode)
+ - [Git](https://git-scm.com/downloads)

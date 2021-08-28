@@ -21,7 +21,7 @@ Github is een website waar je Git kunt gebruiken voor jouw projecten in een gema
 
 > #### OPDRACHT: Github
 >
-> - [ ] Maak een Github account aan met het e-mail adres van de school (voornaam.achternaam@leerling.piustien.net).\
+> - [X] Maak een Github account aan met het e-mail adres van de school (voornaam.achternaam@leerling.piustien.net).\
 >       ***Hint**: Als je deze opdracht leest, dan ben je normaal gezien reeds aangemeld op je Github account!*
 
 ### Visual Studio Code

@@ -1,4 +1,4 @@
-# 💻 PROJECT: EX1-Het Vak Informatica
+# 💻 PROJECT: TN1 - Github en VS Code
 
 ## 🥅 Overzicht en Leerdoelen
 
@@ -7,22 +7,6 @@ Met dit project installeer je de belangrijkste hulpmiddelen van het vak Informat
 ## 🔍 Het Vak Informatica
 
 In het vak Informatica zal je programma's leren maken, databanken maken en beheren, websites ontwikkelen, ... Dit doe je aan de hand van projecten. Een project bestaat vaak uit meerdere documenten waar je code in schrijft. Het is heel belangrijk dat je deze projecten kunt opslaan en delen.
-
-### Github
-
-Git (**NIET** te verwarren met Github) is een **Version Control System (VCS)**. Een VCS is een programma waarmee je verschillende documenten van een project kunt beheren, zodat je gemakkelijk de veranderingen in het project kunt volgen. Wanneer er iets misgaat, geeft een VCS de optie om terug te gaan naar een vorige versie van het project. 
-
-Github is een website waar je Git kunt gebruiken voor jouw projecten in een gemakkelijk te gebruiken overzicht. Deze website werkt als volgt:
-
- 1. je maakt een **repository** aan. Dit is een plek op Github waar je alle bestanden van je project zult bewaren. 
- 2. Wanneer je een repository hebt gemaakt, kan je bestanden bewaren met behulp van 2 Git commando's:
-    1. Je **commit** één of meer bestanden: hiermee geef je aan dat deze bestanden "klaar" zijn om verstuurd te worden.
-    2. Je **pushed** één of meer commits: hiermee verstuur je alle bestanden die je hebt gecommit naar je repository.
-
-> #### OPDRACHT: Github
->
-> - [ ] Maak een Github account aan met het e-mail adres van de school (voornaam.achternaam@leerling.piustien.net).\
->       ***Hint**: Als je deze opdracht leest, dan ben je normaal gezien reeds aangemeld op je Github account!*
 
 ### Visual Studio Code
 
@@ -57,11 +41,36 @@ Enkele voorbeelden van grappige/leuke extensies:
 > #### OPDRACHT: Visual Studio Code (3)
 >
 > - [ ] open VS Code en klik links op de knop ![extensions](extensions.png).
-> - [ ] de extensies "Github Classroom" en "Github Pull Request and Issues" zijn reeds geinstalleerd.
+> - [ ] kijk na of de extensies "Github Classroom" en "Github Pull Request and Issues" reeds zijn geinstalleerd.
 > - [ ] zoek en installeer de volgende extensies:
 >   - Live Server
 >   - Live Share
 >   - Markdown All in One
+
+### Github
+
+Git (**NIET** te verwarren met Github) is een **Version Control System (VCS)**. Een VCS is een programma waarmee je verschillende documenten van een project kunt beheren, zodat je gemakkelijk de veranderingen in het project kunt volgen. Wanneer er iets misgaat, geeft een VCS de optie om terug te gaan naar een vorige versie van het project. 
+
+Github is een website waar je Git kunt gebruiken voor jouw projecten in een gemakkelijk te gebruiken overzicht. Deze website werkt als volgt:
+
+ 1. je maakt een **repository** aan. Dit is een plek op Github waar je alle bestanden van je project zult bewaren. 
+ 2. Wanneer je een repository hebt gemaakt, kan je bestanden bewaren met behulp van 2 Git commando's:
+    1. Je **commit** één of meer bestanden: hiermee geef je aan dat deze bestanden "klaar" zijn om verstuurd te worden.
+    2. Je **pushed** één of meer commits: hiermee verstuur je alle bestanden die je hebt gecommit naar je repository.
+
+Om het werken met Git en Github gemakkelijker te maken, heeft Github een programma gemaakt waarmee je de projecten op je computer gemakkelijk kan uploaden en downloaden naar Github. Dit programma heet **Github Desktop**.
+
+> #### OPDRACHT: Github (1)
+>
+> - [X] Maak een Github account aan met het e-mail adres van de school (voornaam.achternaam@leerling.piustien.net).\
+>       ***Hint**: Als je deze opdracht leest, dan ben je normaal gezien reeds aangemeld op je Github account!*
+
+
+> #### OPDRACHT: Github (2)
+> - [ ] Download en installeer [**Github Desktop**](https://desktop.github.com/).
+> - [ ] Open Github Desktop en log in met je Github account.
+> - [ ] Gebruik Github Desktop en **clone** dit project.\
+>       **clone** is een Git commando waarmee je een Git project download op je computer.
 
 ---
 

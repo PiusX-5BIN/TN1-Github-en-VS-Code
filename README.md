@@ -2,7 +2,7 @@
 
 ## 🥅 Overzicht en Leerdoelen
 
-Met dit project installeer je de belangrijkste hulpmiddelen van het vak Informatica, zoals Source Control (met Github), code editors (met Visual Studio Code) en andere, belangrijke software.
+Met dit project installeer je de belangrijkste hulpmiddelen van het vak Informatica, zoals een Source Control System (met Github) en een code editor (met Visual Studio Code).
 
 ## 🔍 Het Vak Informatica
 
